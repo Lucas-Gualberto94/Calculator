@@ -34,3 +34,9 @@
     border: solid 1px #000;
     box-shadow: 1px 1px 1px #000;
   }
+
+  .h1 {
+    margin-bottom: 30px;
+    color: blanchedalmond;
+    text-align: center;
+  }
