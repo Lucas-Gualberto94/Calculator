@@ -19,7 +19,7 @@ function calcular(tipo, valor){
         }
 
 
-    } else if(tipo === 'valor') {
+    } else if(tipo === 'numero') {
         document.getElementById('resultado').value += valor 
     }
 }
